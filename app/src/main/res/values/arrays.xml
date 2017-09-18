@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="app_types">
+        <item>所有应用</item>
+        <item>系统应用</item>
+        <item>用户应用</item>
+    </array>
+
+    <array name="item_menu">
+        <item>分享</item>
+        <item>详细信息</item>
+    </array>
+</resources>

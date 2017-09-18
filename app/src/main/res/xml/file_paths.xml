@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!--<files-path/>代表的根目录： Context.getFilesDir()-->
+    <!--<external-path/>代表的根目录: Environment.getExternalStorageDirectory()-->
+    <!--<cache-path/>代表的根目录: getCacheDir()-->
+    <!--<root-path 代表更改根目录: /-->
+    <root-path
+        name="name"
+        path=""/>
+    <external-path
+        name="external_storage_root"
+        path="."/>
+    <file-path
+        name="apps"
+        path="/data/app/"/>
+    <external-path
+        name="sdcard"
+        path="sdcard/"/>
+
+    <!-- /storage/emulated/0/Download/${applicationId}/.beta/apk-->
+    <external-path name="beta_external_path" path="Download/"/>
+    <!--/storage/emulated/0/Android/data/${applicationId}/files/apk/-->
+    <external-path name="beta_external_files_path" path="Android/data/"/>
+</paths>

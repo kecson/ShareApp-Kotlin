@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">应用分享</string>
+    <string name="app_installed">已安装应用</string>
+    <string name="share_app_installed">点击分享应用</string>
+    <string name="install_time">首次安装时间</string>
+    <string name="update_time">最后更新时间</string>
+    <string name="detail_info">详细信息</string>
+    <string name="detail_app_name">应用名称</string>
+    <string name="detail_version">应用版本</string>
+    <string name="detail_package_name">应用包名</string>
+    <string name="detail_first_install_time">首次安装时间</string>
+    <string name="detail_last_update_time">最后更新时间</string>
+</resources>
